@@ -97,5 +97,5 @@ def main():
 
 main()
 while True:
-    time.sleep(48 * 60 * 60)
+    time.sleep(172800)
    
